@@ -1,6 +1,6 @@
 # personal_expenses
 
-A udemy course flutter app.
+A flutter project example.
 
 ## Getting Started
 
